@@ -1,4 +1,4 @@
-# CS174-1C-2020Fall
+# CS174A Discussion Materials
  
  <strong> Slides for learning JavaScript from a C++ background:</strong><br/>
  "174a_supplement_JavaScript from a C++ background.pdf" in the main directory <br/>
